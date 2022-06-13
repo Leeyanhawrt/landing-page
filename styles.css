@@ -1,0 +1,95 @@
+h4 {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+ul {
+  font-style: none;
+  display: flex;
+}
+
+li {
+  font-size: 18px;
+  color: #e5e7eb;
+  list-style: none;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 48px;
+  color: #F9FAF8;
+  font-weight: 700;
+  max-width: 400px;
+  margin-bottom: 0px;
+}
+
+body {
+  background-color: #1F2937;
+}
+
+.herosecondary {
+  font-size: 18px;
+  color: #E5E7EB;
+  max-width: 400px;
+  margin-top: 0px;
+}
+
+img {
+ width: 150px;
+ height: 150px; 
+}
+
+img.headingpic {
+  width: 500px;
+  height: 200px;
+}
+
+h3 {
+  color: #1f2937;
+  font-size: 36px;
+}
+
+.quotebody {
+  font-size: 36px;
+  font-style:italic;
+  color: #1F2937
+}
+
+.quotecontainer {
+  background-color: #E5E7EB
+}
+
+#thorquote {
+  font-weight: 700;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.button1 {
+  background-color: #3882f6;
+  color: white;
+  border-radius: 25px;
+  width: 100px;
+  height: 30px;
+}
+
+.toprow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.total {
+  display:flex;
+  justify-content:space-between;
+  align-items: center;
+}
+
+.left {
+  display:flex;
+  flex-direction: column;
+}
